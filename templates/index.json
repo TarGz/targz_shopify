@@ -1,0 +1,386 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Original<strong> Pen Plotter Art</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "View All",
+            "button_link_1": "shopify://collections/originals",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MD0A9357.webp",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "image_with_text_jzHmRN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qMAACP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Printed editions 🤩",
+            "heading_size": "h1"
+          }
+        },
+        "text_84ihtN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each print captures the intricate details and precision of the original artwork, reproduced on high-quality paper.</p><p></p>",
+            "text_style": "body"
+          }
+        },
+        "button_JNpfeh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore Editions",
+            "button_link": "shopify://collections/editions",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qMAACP",
+        "text_84ihtN",
+        "button_JNpfeh"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/home4_PVC-Glossy-Poster-Mockup-by-Creatsy_-_16_a0805446-4f17-40cf-92e3-763bc6a1bca9.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_9Udqif": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "editions",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_MqGGee": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ADVKnr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pen Plotter Art ❤️",
+            "heading_size": "h1"
+          }
+        },
+        "text_airRrA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pen Plotted art pieces made with love on a custom-made pen plotter in Paris</p>",
+            "text_style": "body"
+          }
+        },
+        "button_XM47GT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore Originals",
+            "button_link": "shopify://collections/originals",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ADVKnr",
+        "text_airRrA",
+        "button_XM47GT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pen_plot3.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "featured_collection_UmAd8m": {
+      "type": "featured-collection",
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "originals",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 100
+      }
+    },
+    "collection_list_xLqya7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_MLK4nM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "originals"
+          }
+        },
+        "featured_collection_QUVRyH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "editions"
+          }
+        },
+        "featured_collection_kJB6CL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "framed"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_MLK4nM",
+        "featured_collection_QUVRyH",
+        "featured_collection_kJB6CL"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_DbNW4y": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_96fkqb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Canvas 🔥",
+            "heading_size": "h1"
+          }
+        },
+        "text_nX8DBf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unique and exclusive and durable pieces plotted on high quality canvas and frame on Floater frames</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_96fkqb",
+        "text_nX8DBf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/canvas2_9ac041f8-d428-4ffe-84fd-306dc8cfe5e1.jpg",
+        "height": "medium",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_pbYYaq": {
+      "type": "featured-product",
+      "blocks": {
+        "title_imQiiF": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "price_U9tdGh": {
+          "type": "price",
+          "settings": {}
+        },
+        "text_8njNgB": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "variant_picker_P9b7Li": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons_GzTddW": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "title_imQiiF",
+        "price_U9tdGh",
+        "text_8njNgB",
+        "variant_picker_P9b7Li",
+        "buy_buttons_GzTddW"
+      ],
+      "settings": {
+        "product": "plasma-convection",
+        "color_scheme": "scheme-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_wUUYV6": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_mtyPCN": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Get the Inside Scoop! </strong>💫  Enjoy 10% off",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_4P9wye": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe for occasional emails with updates and exclusive early access to new pieces.</p>"
+          }
+        },
+        "email_form_4XtdDz": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_mtyPCN",
+        "paragraph_4P9wye",
+        "email_form_4XtdDz"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "image_with_text_jzHmRN",
+    "featured_collection_9Udqif",
+    "image_with_text_MqGGee",
+    "featured_collection_UmAd8m",
+    "collection_list_xLqya7",
+    "image_with_text_DbNW4y",
+    "featured_product_pbYYaq",
+    "newsletter_wUUYV6"
+  ]
+}

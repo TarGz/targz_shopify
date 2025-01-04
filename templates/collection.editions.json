@@ -1,0 +1,79 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_xfqhpr": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_kLD9nj": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Get the Inside Scoop! </strong>💫  Enjoy 10% off",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_xVNEcN": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe for occasional emails with updates and exclusive early access to new pieces.</p>"
+          }
+        },
+        "email_form_pLaEtz": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_kLD9nj",
+        "paragraph_xVNEcN",
+        "email_form_pLaEtz"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "newsletter_xfqhpr"
+  ]
+}

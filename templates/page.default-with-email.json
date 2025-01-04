@@ -1,0 +1,57 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "newsletter_zbjzAg": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_iRcApD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Get the Inside Scoop! </strong>💫 Enjoy 10% off",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_tUCBDw": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe for occasional emails with updates and exclusive early access to new pieces.</p>"
+          }
+        },
+        "email_form_GaJRPh": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_iRcApD",
+        "paragraph_tUCBDw",
+        "email_form_GaJRPh"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "newsletter_zbjzAg"
+  ]
+}
