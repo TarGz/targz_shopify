@@ -16,10 +16,9 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Welcome to our store",
-            "link": ""
+            "text": "Save 10% on Your First Order ✨",
+            "link": "shopify://pages/targz-newsletter"
           }
         }
       },
@@ -27,7 +26,7 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-92171599-a8a7-4e65-9b98-97d2bddb8e4f",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,
@@ -51,6 +50,7 @@
         "menu_color_scheme": "scheme-1",
         "enable_country_selector": true,
         "enable_language_selector": true,
+        "enable_customer_avatar": true,
         "mobile_logo_position": "left",
         "margin_bottom": 0,
         "padding_top": 20,

@@ -108,7 +108,7 @@
         "description_style": "body",
         "collection": "editions",
         "products_to_show": 4,
-        "columns_desktop": 4,
+        "columns_desktop": 2,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
@@ -119,10 +119,11 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 28,
-        "padding_bottom": 0
+        "padding_bottom": 100
       }
     },
     "image_with_text_MqGGee": {
@@ -157,8 +158,8 @@
         "button_XM47GT"
       ],
       "settings": {
-        "image": "shopify://shop_images/pen_plot3.jpg",
-        "height": "small",
+        "image": "shopify://shop_images/pens_b01ca2d4-83a4-4322-bc63-6ada430e4d22.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -168,8 +169,8 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
+        "padding_top": 100,
+        "padding_bottom": 0
       }
     },
     "featured_collection_UmAd8m": {
@@ -183,7 +184,7 @@
         "description_style": "body",
         "collection": "originals",
         "products_to_show": 4,
-        "columns_desktop": 4,
+        "columns_desktop": 2,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
@@ -194,6 +195,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 20,
@@ -279,59 +281,114 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_pbYYaq": {
-      "type": "featured-product",
+    "image_with_text_bEPLH4": {
+      "type": "image-with-text",
       "blocks": {
-        "title_imQiiF": {
-          "type": "title",
+        "heading_Q3MYRJ": {
+          "type": "heading",
           "settings": {
-            "heading_size": "h2"
+            "heading": "Synaps - Grand Palais",
+            "heading_size": "h1"
           }
         },
-        "price_U9tdGh": {
-          "type": "price",
-          "settings": {}
+        "caption_JMBKxf": {
+          "type": "caption",
+          "settings": {
+            "caption": "€1250.OO EUR",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
         },
-        "text_8njNgB": {
+        "text_wbkiar": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>This piece will be featured during Art Capital - Comparaison 2025 at the Grand Palais</p>",
             "text_style": "body"
           }
         },
-        "variant_picker_P9b7Li": {
-          "type": "variant_picker",
+        "button_N497Ax": {
+          "type": "button",
           "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "buy_buttons_GzTddW": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
+            "button_label": "BUY",
+            "button_link": "shopify://products/synapses-grand-palais",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "title_imQiiF",
-        "price_U9tdGh",
-        "text_8njNgB",
-        "variant_picker_P9b7Li",
-        "buy_buttons_GzTddW"
+        "heading_Q3MYRJ",
+        "caption_JMBKxf",
+        "text_wbkiar",
+        "button_N497Ax"
       ],
       "settings": {
-        "product": "plasma-convection",
-        "color_scheme": "scheme-1",
-        "secondary_background": false,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
+        "image": "shopify://shop_images/Canvas-70x50-cm-_-frame-1.2cm-_vertical-front_ffc8ff5f-f43d-4e2b-b341-c14d9ac847b8.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_agFGBt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_zkTm43": {
+          "type": "heading",
+          "settings": {
+            "heading": "Plasma Convection",
+            "heading_size": "h2"
+          }
+        },
+        "caption_ewVeif": {
+          "type": "caption",
+          "settings": {
+            "caption": "€1000.00 EUR",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "text_hnnHz3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This Plasma Convection edition is plotted on canvas </p>",
+            "text_style": "body"
+          }
+        },
+        "button_VDHNGx": {
+          "type": "button",
+          "settings": {
+            "button_label": "SOLD OUt",
+            "button_link": "shopify://products/plasma-convection",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_zkTm43",
+        "caption_ewVeif",
+        "text_hnnHz3",
+        "button_VDHNGx"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SIZE3_b7f49fe3-f6ab-465f-92b6-4a2a97638e12.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -362,6 +419,7 @@
         "paragraph_4P9wye",
         "email_form_4XtdDz"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "full_width": true,
@@ -378,7 +436,8 @@
     "featured_collection_UmAd8m",
     "collection_list_xLqya7",
     "image_with_text_DbNW4y",
-    "featured_product_pbYYaq",
+    "image_with_text_bEPLH4",
+    "image_with_text_agFGBt",
     "newsletter_wUUYV6"
   ]
 }

@@ -50,6 +50,7 @@
         "email_form_JpeVyg",
         "paragraph_hfktLG"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "full_width": true,
@@ -59,6 +60,7 @@
     },
     "image_banner_AmqgqH": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/newsletter.jpg",
         "image_overlay_opacity": 0,

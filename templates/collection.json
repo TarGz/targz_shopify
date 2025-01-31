@@ -28,10 +28,11 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
+        "quick_add": "none",
         "enable_filtering": false,
         "filter_type": "horizontal",
         "enable_sorting": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -62,61 +63,18 @@
         "paragraph_iNHHh7",
         "email_form_AjW64R"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 100
       }
-    },
-    "rich_text_C8J9tQ": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_7VW9NU": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_NRTwAi": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_KizFJQ": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_7VW9NU",
-        "text_NRTwAi",
-        "button_KizFJQ"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "newsletter_zjCpU9",
-    "rich_text_C8J9tQ"
+    "newsletter_zjCpU9"
   ]
 }
