@@ -365,7 +365,7 @@
         "button_VDHNGx": {
           "type": "button",
           "settings": {
-            "button_label": "SOLD OUt",
+            "button_label": "SOLD OUT",
             "button_link": "shopify://products/plasma-convection",
             "button_style_secondary": true
           }

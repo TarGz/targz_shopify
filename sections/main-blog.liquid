@@ -16,7 +16,7 @@
   }
 {%- endstyle -%}
 
-{%- paginate blog.articles by 6 -%}
+{%- paginate blog.articles by section.settings.article_count -%}
   <div class="main-blog page-width section-{{ section.id }}-padding">
     <h1 class="title--primary{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}">
       {{ blog.title | escape }}
@@ -38,7 +38,7 @@
             show_image: section.settings.show_image,
             show_date: section.settings.show_date,
             show_author: section.settings.show_author,
-            show_excerpt: true
+            show_excerpt: section.settings.show_excerpt
           -%}
         </div>
       {%- endfor -%}
@@ -78,6 +78,16 @@
       "info": "t:sections.main-blog.settings.layout.info"
     },
     {
+      "type": "range",
+      "id": "article_count",
+      "min": 8,
+      "max": 100,
+      "step": 2,
+      "unit": "Art",
+      "label": "Article count",
+      "default": 12
+    },
+    {
       "type": "checkbox",
       "id": "show_image",
       "default": true,
@@ -113,6 +123,13 @@
       "id": "show_date",
       "default": true,
       "label": "t:sections.main-blog.settings.show_date.label"
+    },
+    
+    {
+      "type": "checkbox",
+      "id": "show_excerpt",
+      "default": false,
+      "label": "Preview"
     },
     {
       "type": "checkbox",
